@@ -1,0 +1,13 @@
+Encrypted binary message: [0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1] 
+
+Receiver's Random Basis:  x + + + + x + x + + x + + x x x x + x + + x x x x + x + x x + x x + x + + + + + x x x x + + x x + + + x + + x x x x x x x x x x x + + + x + + + 
+
+Sender's Random Basis:  x x + + + + + x x x + x + + x x + + x x x + x + x x + + + x + + x + x + x + + x x + + + + x + + x + + + + + x x + + x + x x x x x + + + + + x + 
+
+Bits measured with photons from key before deletion:  0 0 1 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1 1 1 1 0 1 0 0 1 0 0 1 1 1 0 1 0 1 1 1 0 1 1 1 0 0 1 1 1 1 1 0 0 1 1 0 1 0 1 1 1 0 0 0 1 0 1 0 0 0 0 1 1 1 1 
+
+Top Secret Key after deletion: [0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1] 
+
+Final Binary Message: [0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0] 
+
+Final Secret Message: ddd

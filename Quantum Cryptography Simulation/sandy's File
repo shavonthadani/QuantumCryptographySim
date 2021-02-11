@@ -1,0 +1,7 @@
+Original Message: hi 
+Message in Binary: 0110100001101001 
+Sender's Random Basis:  x + + x + + x + + x x x x x + x + x x + + + + x + x + x x + x x + + x x x x + + x x + + + x x + 
+Receiver's Random Basis:  + + x + x x + + + + + + + + + + + x + + x + + + x x + x + x + x + x + x x + x x + + + + x x + x 
+Random bits made for key:  0 1 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1 0 0 0 0 1 0 1 0 1 1 1 1 0 0 1 1 0 1 1 0 1 1 1 0 0 
+ Top Secret key: [1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1] 
+Encrypted Message: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1]

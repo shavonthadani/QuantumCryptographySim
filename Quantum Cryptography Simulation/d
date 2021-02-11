@@ -1,0 +1,13 @@
+Original Message: ddd 
+
+Message in Binary: 011001000110010001100100 
+
+Sender's Random Basis:  x x + + + + + x x x + x + + x x + + x x x + x + x x + + + x + + x + x + x + + x x + + + + x + + x + + + + + x x + + x + x x x x x + + + + + x + 
+
+Receiver's Random Basis:  x + + + + x + x + + x + + x x x x + x + + x x x x + x + x x + x x + x + + + + + x x x x + + x x + + + x + + x x x x x x x x x x x + + + x + + + 
+
+Random bits made for key:  0 0 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 1 0 1 1 0 1 1 0 0 0 1 0 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 1 
+
+Top Secret key: [0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1] 
+
+Encrypted Message: [0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1]
